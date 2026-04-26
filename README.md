@@ -60,11 +60,6 @@ npm install
 npm run dev
 
 
-## API Base URL
-
-http://localhost:5000/api
-
-
 ## Future Improvements
 
 - Resume upload feature
