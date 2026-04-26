@@ -42,6 +42,11 @@ job-portal/
 ├── server/        # Backend (Node + Express)
 
 
+## screensort
+
+![output](job-portal/client/src/screensort/image.png)
+
+
 ## Installation & Setup
 
 1 Setup Backend
